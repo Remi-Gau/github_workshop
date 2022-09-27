@@ -4,5 +4,5 @@
 
 github workshop for GlimR 2022
 
-slides are available on OSF 
+slides are available on OSF
 <!-- TODO add link -->
